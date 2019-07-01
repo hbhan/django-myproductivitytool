@@ -25,6 +25,4 @@ python manage.py runserver 8100
 
 
 4) Sample UI:
-Homepage: http://s000.tinyupload.com/download.php?file_id=33942973856756326539&t=3394297385675632653928720
-Add/Remove Tasks: http://s000.tinyupload.com/download.php?file_id=82583642109565743503&t=8258364210956574350340516
-Add/Remove Projects: http://s000.tinyupload.com/download.php?file_id=00348576229793248854&t=0034857622979324885429526
+Snpahots upload in repository
